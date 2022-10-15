@@ -69,18 +69,16 @@ queue.add(19)
 queue.add(20)
 
 print(queue.add(21))
-print(queue.offer1(22), "holi")
-print(queue.offer1(22), "holi")
-print(queue.items)
+print(queue.offer1(22))
 print(queue.offer2(23))
 
 print(queue.items)
-print(queue.peek(),"holaaasfsaf")
+print(queue.peek())
 
-print(queue.poll(),"polllll")
+print(queue.poll())
 print(queue.items)
 
-print(queue.remove(),"")
+print(queue.remove())
 print(queue.items)
 
 print(queue.size())
